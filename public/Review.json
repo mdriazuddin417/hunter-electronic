@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "picture": "https://images.unsplash.com/photo-1500048993953-d23a436266cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Bradford Rosales",
+    "about": "Culpa ullamco fugiat est nostrud amet elit quis ullamco ullamco amet. Fugiat irure quis in sunt dolore ut non enim labore elit. Ea incididunt sit voluptate irure reprehenderit deserunt duis deserunt ad labore.\r\n",
+    "ratings": 5
+  },
+  {
+    "id": 1,
+    "picture": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Janell Jefferson",
+    "about": "Culpa ullamco fugiat est nostrud amet elit quis ullamco ullamco amet. Fugiat irure quis in sunt dolore ut non enim labore elit. Ea incididunt sit voluptate irure reprehenderit deserunt duis deserunt ad labore.\r\n",
+    "ratings": 5
+  },
+  {
+    "id": 2,
+    "picture": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Oneil Stephens",
+    "about": "Culpa ullamco fugiat est nostrud amet elit quis ullamco ullamco amet. Fugiat irure quis in sunt dolore ut non enim labore elit. Ea incididunt sit voluptate irure reprehenderit deserunt duis deserunt ad labore.\r\n",
+    "ratings": 5
+  },
+  {
+    "id": 3,
+    "picture": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Castaneda Livingston",
+    "about": "Culpa ullamco fugiat est nostrud amet elit quis ullamco ullamco amet. Fugiat irure quis in sunt dolore ut non enim labore elit. Ea incididunt sit voluptate irure reprehenderit deserunt duis deserunt ad labore.\r\n",
+    "ratings": 5
+  },
+  {
+    "id": 4,
+    "picture": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDF8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Alston Lott",
+    "about": "Culpa ullamco fugiat est nostrud amet elit quis ullamco ullamco amet. Fugiat irure quis in sunt dolore ut non enim labore elit. Ea incididunt sit voluptate irure reprehenderit deserunt duis deserunt ad labore.\r\n",
+    "ratings": 5
+  },
+  {
+    "id": 5,
+    "picture": "https://images.unsplash.com/photo-1589571894960-20bbe2828d0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Sadie Moses",
+    "about": "Culpa ullamco fugiat est nostrud amet elit quis ullamco ullamco amet. Fugiat irure quis in sunt dolore ut non enim labore elit. Ea incididunt sit voluptate irure reprehenderit deserunt duis deserunt ad labore.\r\n",
+    "ratings": 5
+  },
+  {
+    "id": 6,
+    "picture": "https://images.unsplash.com/photo-1607346256330-dee7af15f7c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTR8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Chang Shepherd",
+    "about": "Culpa ullamco fugiat est nostrud amet elit quis ullamco ullamco amet. Fugiat irure quis in sunt dolore ut non enim labore elit. Ea incididunt sit voluptate irure reprehenderit deserunt duis deserunt ad labore.\r\n",
+    "ratings": 5
+  },
+  {
+    "id": 7,
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjV8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Hill Ray",
+    "about": "Culpa ullamco fugiat est nostrud amet elit quis ullamco ullamco amet. Fugiat irure quis in sunt dolore ut non enim labore elit. Ea incididunt sit voluptate irure reprehenderit deserunt duis deserunt ad labore.\r\n",
+    "ratings": 5
+  },
+  {
+    "id": 8,
+    "picture": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODB8fHBlcnNvbnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Hillion kay",
+    "about": "Culpa ullamco fugiat est nostrud amet elit quis ullamco ullamco amet. Fugiat irure quis in sunt dolore ut non enim labore elit. Ea incididunt sit voluptate irure reprehenderit deserunt duis deserunt ad labore.\r\n",
+    "ratings": 5
+  }
+]
