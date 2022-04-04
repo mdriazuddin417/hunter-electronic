@@ -1,11 +1,12 @@
 .review-cart {
   width: 350px;
-
+  box-shadow: 1px 1px 10px 2px #ddd;
   background-color: #ffffff;
 
   padding: 20px;
   border-radius: 10px;
 }
+
 .review-img {
   display: flex;
   justify-content: center;
@@ -14,4 +15,6 @@
   width: 80px;
   height: 80px;
   border-radius: 50%;
+  background-color: plum;
+  padding: 5px;
 }
