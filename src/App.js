@@ -9,6 +9,7 @@ import NotFound from "./component/NotFound/NotFound";
 
 import Review from "./component/Review/Review";
 import Dashboard from "./component/Dashboard/Dashboard";
+import Footer from "./component/Footer/Footer";
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
         <Route path="/about" element={<About />}></Route>
         <Route path="*" element={<NotFound />}></Route>
       </Routes>
+      <Footer />
     </div>
   );
 }
