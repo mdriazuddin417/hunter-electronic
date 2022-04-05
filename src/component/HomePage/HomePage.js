@@ -1,5 +1,6 @@
 import React from "react";
 import { Outlet } from "react-router";
+import { Link } from "react-router-dom";
 import CustomerReviews from "../CustomerReviews/CustomerReviews";
 import Reviews from "../Reviews/Reviews";
 
@@ -13,14 +14,14 @@ const HomePage = () => {
               Electronic device is very Wonderful
             </h1>
             <p className="text-xl text-gray-700">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptate veniam nulla necessitatibus perspiciatis consequatur.
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Voluptate veniam nulla necessitatibus perspiciatis consequatur.{" "}
+              The products we are looking for are amazing. And very expensive.
+              Which is not found in any other place
             </p>
-            <button className="bg-purple-500 py-2 px-4 rounded text-white  my-4">
-              More Details...
-            </button>
+            <Link to={"/dashboard"}>
+              <button className="bg-purple-500 py-2 px-4 rounded text-white  my-4">
+                More Details...
+              </button>
+            </Link>
           </div>
           <div className="md:order-2 order-1 flex-shrink-0">
             <img src="https://media.istockphoto.com/photos/mobile-computing-devices-with-blue-wave-background-picture-id185278319?b=1&k=20&m=185278319&s=170667a&w=0&h=QJ6k_XxNbbozz0SCRV_QABbXcCxyyxxb_f6NBgEky6A=" />

@@ -1,4 +1,7 @@
 import React from "react";
+import Rating from "react-rating";
+import { faStar } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import "./Review.css";
 const Review = ({ review }) => {
   const { name, about, picture, ratings } = review;
@@ -12,7 +15,14 @@ const Review = ({ review }) => {
         <p className="text-xl font-semibold py-4">{name}</p>
         <p className="text-gray-600 capitalize text-justify">{about}</p>
         <p>
-          <strong>Ratings:</strong> {ratings}
+          <Rating
+            initialRating={ratings}
+            emptySymbol={<FontAwesomeIcon icon={faStar} />}
+            fullSymbol={
+              <FontAwesomeIcon style={{ color: "goldenrod" }} icon={faStar} />
+            }
+            readonly
+          ></Rating>
         </p>
       </div>
     </div>

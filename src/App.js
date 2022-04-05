@@ -12,7 +12,7 @@ import Dashboard from "./component/Dashboard/Dashboard";
 
 function App() {
   return (
-    <div>
+    <div className=" mx-auto max-w-7xl">
       <Header />
       <Routes>
         <Route path="/" element={<HomePage />}></Route>
